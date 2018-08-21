@@ -1,0 +1,15 @@
+{
+  "name": "macfancontrol",
+  "version": "1.0.0",
+  "description": "Controls the fan speeds on an Apple Mac device, using the SMC driver",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Lava Git (Jack Davies)",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.8.3",
+    "glob": "^7.1.2"
+  }
+}
